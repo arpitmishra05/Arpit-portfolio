@@ -2,8 +2,8 @@ import { Download, GraduationCap, Calendar } from "lucide-react";
 
 const timeline = [
   { year: "2022 – Present", title: "B.Tech in Computer Science", place: "Lovely Professional University, Punjab" },
-  { year: "2020 – 2022", title: "Higher Secondary (12th)", place: "Banaras, Uttar Pradesh" },
-  { year: "2018 – 2020", title: "Secondary School (10th)", place: "Banaras, Uttar Pradesh" },
+  { year: "2020 – 2022", title: "Higher Secondary (12th)", place: "Varanasi, Uttar Pradesh" },
+  { year: "2018 – 2020", title: "Secondary School (10th)", place: "Varanasi, Uttar Pradesh" },
 ];
 
 const ResumeSection = () => {
