@@ -18,7 +18,7 @@ const AboutSection = () => {
             <h3 className="text-xl font-display font-semibold text-foreground">Who I Am</h3>
             <p className="text-muted-foreground leading-relaxed text-sm">
               I'm Arpit Mishra, a passionate Computer Science student at Lovely Professional University, Phagwara, Punjab. 
-              Originally from the culturally rich city of Banaras, Uttar Pradesh, I bring creativity and dedication to every project I build.
+              Originally from the culturally rich city of Varanasi, Uttar Pradesh, I bring creativity and dedication to every project I build.
             </p>
             <p className="text-muted-foreground leading-relaxed text-sm">
               I specialize in full stack web development, with a strong foundation in modern JavaScript frameworks, 
@@ -29,7 +29,7 @@ const AboutSection = () => {
           <div className="section-reveal space-y-4" style={{ transitionDelay: "0.15s" }}>
             {[
               { icon: GraduationCap, label: "Institute", value: "Lovely Professional University, Phagwara, Punjab" },
-              { icon: MapPin, label: "Hometown", value: "Banaras, Uttar Pradesh, India" },
+              { icon: MapPin, label: "Hometown", value: "Varanasi, Uttar Pradesh, India" },
               { icon: Mail, label: "Email", value: "arpitmishra0003@gmail.com", href: "mailto:arpitmishra0003@gmail.com" },
               { icon: Phone, label: "Mobile", value: "8299105304", href: "tel:8299105304" },
             ].map(({ icon: Icon, label, value, href }) => (
