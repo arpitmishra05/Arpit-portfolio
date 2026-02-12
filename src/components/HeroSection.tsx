@@ -30,7 +30,7 @@ const HeroSection = () => {
               </span>
             </div>
             <p className="text-muted-foreground max-w-md mx-auto lg:mx-0 mb-8 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
-              Building modern web experiences with clean code and creative design. Based in Banaras, India.
+              Building modern web experiences with clean code and creative design.
             </p>
 
             <div className="flex gap-4 justify-center lg:justify-start animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
